@@ -11,6 +11,7 @@ const COLOR_SCHEME =
 
 const config: ProjectConfig = {
   dataSources: [
+    // Currently .parquet and .csv files are supported
     {type: "url", tableName: "locations", url: `${BASE_URL}/locations.parquet`},
     {type: "url", tableName: "flows", url: `${BASE_URL}/flows.parquet`},
   ],
