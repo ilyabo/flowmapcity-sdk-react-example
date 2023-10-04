@@ -1,6 +1,11 @@
 # Flowmap City SDK + React example
 
-Integrate Flowmap City projects into your React applications.
+Integrate [Flowmap City](https://www.flowmap.city) projects into your React applications.
+
+[LIVE DEMO](https://flowmapcity-sdk-react-example.vercel.app/)
+
+![image](https://github.com/ilyabo/flowmapcity-sdk-react-example/assets/351828/4c0f67c9-88dd-427d-af65-5a8a524c46f4)
+
 
 ## Quick Start Guide
 
