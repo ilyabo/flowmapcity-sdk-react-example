@@ -355,10 +355,10 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.50.0.tgz#9e93b850f0f3fa35f5fa59adfd03adae8488e484"
   integrity sha512-NCC3zz2+nvYd+Ckfh87rA47zfu2QsQpvc6k1yzTk+b9KzRj0wkGa8LSoGOXN6Zv4lRf/EIoZ80biDh9HOI+RNQ==
 
-"@flowmapcity/sdk@0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@flowmapcity/sdk/-/sdk-0.1.1.tgz#586195399ae68a9f42268af9715cc76350b346de"
-  integrity sha512-d9x0qgtyqeIK4CyB+CIEx7aVATNKTUWb6y4hJZAMdDu2WK+mqIfMCm5Zo7Z9eUZZHpdYqqGqFQEulKUa7CvtzA==
+"@flowmapcity/sdk@0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@flowmapcity/sdk/-/sdk-0.1.2.tgz#fd286806ea2c3756d637fcea2c26a1188f9db8e2"
+  integrity sha512-uPdIJ1OHCxs7UK2SacdyT44RIujaNtlsPq/TDsfSrPuPSzQ+cOVXb2uv9niEa6yW5G+u2Z9LkyfhWCuSswJEkQ==
 
 "@humanwhocodes/config-array@^0.11.11":
   version "0.11.11"
